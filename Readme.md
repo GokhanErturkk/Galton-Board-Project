@@ -27,12 +27,11 @@ naturally change for each run. Be sure that created thread count is equal to the
 * Programming logic and correct output defined in `Tests to run` section below are worth 40 points.
 
 # Requirements
-* Fork this github repository.
 * Your project should be a maven project.
 * Use Java 17 and Apache Maven 3.9.6.
 * Do not modify the pom.xml file.
 * Check out the Tests to Run section below. Make sure the test outputs match the expected format exactly, except for the numerical values, which may vary.
-* Push your changes to your forked repository after completing the assignment.
+* Push your changes to your repository (created after clicking the invitation link) after completing the assignment.
 
 
 
