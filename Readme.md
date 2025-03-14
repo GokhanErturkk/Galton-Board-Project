@@ -20,6 +20,12 @@ left. This choice is done randomly. When the thread finished its way, increase t
 cell by one. The below figure presents an example of the program output for a run. The values may
 naturally change for each run. Be sure that created thread count is equal to the sum of the values.
 
+# Grading Criteria
+* If `mvn compile` does not work, you will get 0 point.
+* If you change the pom.xml, package names, class names (given file structure), you will be `penalized`  with 30 points.
+* If you don't create the required thread count, you will be `penalized` with 30 points.
+* Programming logic and correct output defined in `Tests to run` section below are worth 40 points.
+
 # Requirements
 * Fork this github repository.
 * Your project should be a maven project.
@@ -27,6 +33,8 @@ naturally change for each run. Be sure that created thread count is equal to the
 * Do not modify the pom.xml file.
 * Check out the Tests to Run section below. Make sure the test outputs match the expected format exactly, except for the numerical values, which may vary.
 * Push your changes to your forked repository after completing the assignment.
+
+
 
 # Tests to run
 
